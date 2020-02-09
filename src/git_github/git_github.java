@@ -8,4 +8,8 @@ public class git_github {
 		
 		System.out.println("waleed");
 	}
+	
+	public void name() {
+		System.out.println("git and github");
+	}
 }
