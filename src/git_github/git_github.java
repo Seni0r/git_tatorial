@@ -7,9 +7,10 @@ public class git_github {
 	public static void main(String args[]) {
 		
 		System.out.println("waleed");
+		
 	}
 	
-	public void name() {
+	public static void name() {
 		System.out.println("git and github");
 	}
 }
